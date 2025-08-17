@@ -1,9 +1,12 @@
 ```markdown
 # 🚀 Contêiner de Aplicação Web com Docker Compose
 
-Este projeto é a entrega final do curso de Docker e tem como objetivo a **containerização de uma aplicação web estática**. Utilizando o **Docker Compose**, o projeto demonstra como orquestrar um servidor web Apache (httpd) para hospedar um site HTML de forma simples e eficiente.
+Este projeto é a entrega final do curso de Docker e tem como objetivo a **containerização de uma aplicação web estática**.
+Utilizando o **Docker Compose**, o projeto demonstra como orquestrar um servidor web Apache (httpd) para hospedar um
+site HTML de forma simples e eficiente.
 
-A proposta do projeto permite ao usuário executar o ambiente de desenvolvimento em qualquer sistema operacional (**Windows**, **Linux**, **macOS**) de maneira isolada e consistente.
+A proposta do projeto permite ao usuário executar o ambiente de desenvolvimento em qualquer sistema operacional
+(**Windows**, **Linux**, **macOS**) de maneira isolada e consistente.
 
 ---
 
@@ -21,8 +24,7 @@ Antes de começar, certifique-se de ter:
 
 A estrutura de diretórios deve seguir o padrão abaixo:
 
-```
-seu-projeto/
+meu-site-docker/
 ├── docker-compose.yml
 └── html/
     └── index.html
@@ -36,7 +38,7 @@ Siga os passos abaixo para colocar a aplicação no ar:
 
 1. Certifique-se de que sua estrutura de arquivos esteja organizada conforme o modelo acima.
 2. Abra o terminal ou prompt de comando.
-3. Navegue até o diretório raiz do seu projeto (`seu-projeto`).
+3. Navegue até o diretório raiz do meu-site-docker.
 4. Execute o seguinte comando:
 
 ```bash
@@ -46,7 +48,7 @@ docker-compose up
 5. Acesse sua aplicação no navegador:
 
 ```
-http://localhost
+http://verifique-o-ip-assinalado-pelo-docker
 ```
 
 6. Para parar o contêiner, pressione `CTRL + C` no terminal.
@@ -86,7 +88,7 @@ Este projeto é ideal para fins educacionais e demonstração de conceitos bási
 
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido por **Ricardo** como parte do curso de Docker.
+Projeto desenvolvido por [**Ricardo**](https://www.linkedin.com/in/ricardofagundes) como parte do curso de Docker.
 
 ---
 
