@@ -3,7 +3,7 @@ version: '3.8'
 services:
   web:
     image: httpd:latest
-    container_name: meu-servidor-web
+    container_name: meu-site-docker
     ports:
       - "80:80"
     volumes:
