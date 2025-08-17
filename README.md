@@ -96,5 +96,3 @@ Projeto desenvolvido por [**Ricardo Fagundes**](https://www.linkedin.com/in/rica
 
 Este projeto está sob a licença [MIT](LICENSE), exceto pelo template HTML que segue os termos do site [freehtml5.co](https://freehtml5.co).
 ```
-
-Se quiser, posso te ajudar a criar o `docker-compose.yml` e o `index.html` também!
