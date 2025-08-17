@@ -88,7 +88,7 @@ Este projeto é ideal para fins educacionais e demonstração de conceitos bási
 
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido por [**Ricardo**](https://www.linkedin.com/in/ricardofagundes) como parte do curso de Docker.
+Projeto desenvolvido por [**Ricardo Fagundes**](https://www.linkedin.com/in/ricardofagundes) como parte do curso de Docker.
 
 ---
 
