@@ -90,9 +90,6 @@ Este projeto é ideal para fins educacionais e demonstração de conceitos bási
 
 Projeto desenvolvido por [**Ricardo Fagundes**](https://www.linkedin.com/in/ricardofagundes) como parte do curso de Docker.
 
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](LICENSE), exceto pelo template HTML que segue os termos do site [freehtml5.co](https://freehtml5.co).
-```
